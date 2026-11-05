@@ -10,9 +10,17 @@
 
 ### Explore
 
-- [**The feed**](https://xplorahub.com/feed): new tools, field tests and questions
-- [**Experts**](https://xplorahub.com/directory) and [**technology companies**](https://xplorahub.com/directory/organisations)
+- [**The feed**](https://xplorahub.com/feed): new tools, field tests and questions, ranked by members' votes
+- [**Watch**](https://xplorahub.com/watch): exploration and mining videos worth watching, chosen for substance. Talks and case studies, tutorials and courses, and films of real field work, from societies, surveys, conferences and the companies building the technology. No investor promos.
+- [**Experts**](https://xplorahub.com/directory) and [**technology companies**](https://xplorahub.com/directory/organisations): find the people who know a method, and the companies behind the tools
 - [**Exploration methods**](https://xplorahub.com/methods): practical guides to geophysics, drilling, geostatistics and other methods used in exploration and mining
+
+### A few words we use
+
+- **Votes** rank posts. They only go up; there are no downvotes.
+- **Hits** are comments the author marks because they improved the post or taught them something. Hits are earned, not given to yourself.
+- **Endorsements** are members vouching for each other's expertise.
+- **Verified** means XploraHub has checked a company is real and builds exploration or mining technology. **Official** marks a video from a listed company's own channel.
 
 ### Open source
 
