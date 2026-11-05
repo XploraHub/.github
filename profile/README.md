@@ -20,7 +20,8 @@
 - **Votes** rank posts. They only go up; there are no downvotes.
 - **Hits** are comments the author marks because they improved the post or taught them something. Hits are earned, not given to yourself.
 - **Endorsements** are members vouching for each other's expertise.
-- **Verified** means XploraHub has checked a company is real and builds exploration or mining technology. **Official** marks a video from a listed company's own channel.
+- **Verified** companies have been checked by a person: the company exists and builds or uses technology for exploration or mining. It is not a test of their products.
+- **Official** marks a video from a listed company's own channel.
 
 ### Open source
 
