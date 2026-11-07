@@ -35,7 +35,7 @@
 | Repository | What it is |
 |---|---|
 | [**Awesome mineral exploration**](https://github.com/XploraHub/awesome-mineral-exploration) | Open-source software for exploration, sorted by method, from geophysical inversion to prospectivity mapping |
-| [**Geoscience data portals**](https://github.com/XploraHub/geoscience-data-portals) | 75 government geoscience data portals: what each holds, how to get the data, what licence applies and what to watch out for |
+| [**Geoscience data portals**](https://github.com/XploraHub/geoscience-data-portals) | Government geoscience data portals: what each holds, how to get the data, what licence applies and what to watch out for |
 
 Built an open-source tool for exploration? Add it to the list with a pull request, or [show it on XploraHub](https://xplorahub.com/submit). Spotted a portal we've missed? [Open an issue](https://github.com/XploraHub/geoscience-data-portals/issues/new/choose).
 
