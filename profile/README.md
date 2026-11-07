@@ -16,6 +16,7 @@
 | [**Experts**](https://xplorahub.com/directory) | Members' expert profiles, built from hits and endorsements |
 | [**Technology companies**](https://xplorahub.com/directory/organisations) | The companies building exploration and mining technology |
 | [**Exploration methods**](https://xplorahub.com/methods) | Practical guides to geophysics, drilling, geostatistics and other methods |
+| [**Guides**](https://xplorahub.com/guides) | Deposit types and how each is explored, assay QA/QC, reporting and careers |
 | [**Watch**](https://xplorahub.com/watch) | Talks, case studies, tutorials and field films chosen for substance, with no investor promos |
 | [**Field Notes**](https://xplorahub.com/fieldnotes) | Our own articles and interviews |
 | [**News**](https://xplorahub.com/news) | Exploration and mining technology news |
