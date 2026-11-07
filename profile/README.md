@@ -10,10 +10,16 @@
 
 ### Explore
 
-- [**The feed**](https://xplorahub.com/feed): new tools, field tests and questions, ranked by members' votes
-- [**Watch**](https://xplorahub.com/watch): exploration and mining videos worth watching, chosen for substance. Talks and case studies, tutorials and courses, and films of real field work, from societies, surveys, conferences and the companies building the technology. No investor promos.
-- [**Experts**](https://xplorahub.com/directory) and [**technology companies**](https://xplorahub.com/directory/organisations): find the people who know a method, and the companies behind the tools
-- [**Exploration methods**](https://xplorahub.com/methods): practical guides to geophysics, drilling, geostatistics and other methods used in exploration and mining
+| | |
+|---|---|
+| [**The feed**](https://xplorahub.com/feed) | New tools, field tests and questions, ranked by members' votes |
+| [**Experts**](https://xplorahub.com/directory) | Members' expert profiles, built from hits and endorsements |
+| [**Technology companies**](https://xplorahub.com/directory/organisations) | The companies building exploration and mining technology |
+| [**Exploration methods**](https://xplorahub.com/methods) | Practical guides to geophysics, drilling, geostatistics and other methods |
+| [**Watch**](https://xplorahub.com/watch) | Talks, case studies, tutorials and field films chosen for substance, with no investor promos |
+| [**Field Notes**](https://xplorahub.com/fieldnotes) | Our own articles and interviews |
+| [**News**](https://xplorahub.com/news) | Exploration and mining technology news |
+| [**Jobs**](https://xplorahub.com/jobs) and [**events**](https://xplorahub.com/events) | In exploration and mining technology |
 
 ### A few words we use
 
@@ -25,5 +31,13 @@
 
 ### Open source
 
-- [**Awesome mineral exploration**](https://github.com/XploraHub/awesome-mineral-exploration): open-source software for exploration, sorted by method, from geophysical inversion to prospectivity mapping.
-- Built an open-source tool for exploration? Add it to the list with a pull request, or [show it on XploraHub](https://xplorahub.com/submit).
+| Repository | What it is |
+|---|---|
+| [**Awesome mineral exploration**](https://github.com/XploraHub/awesome-mineral-exploration) | Open-source software for exploration, sorted by method, from geophysical inversion to prospectivity mapping |
+| [**Geoscience data portals**](https://github.com/XploraHub/geoscience-data-portals) | 75 government geoscience data portals: what each holds, how to get the data, what licence applies and what to watch out for |
+
+Built an open-source tool for exploration? Add it to the list with a pull request, or [show it on XploraHub](https://xplorahub.com/submit). Spotted a portal we've missed? [Open an issue](https://github.com/XploraHub/geoscience-data-portals/issues/new/choose).
+
+### Follow
+
+[LinkedIn](https://www.linkedin.com/company/xplorahub) · [X](https://x.com/xplorahubtech) · [YouTube](https://www.youtube.com/@xplorahubtech)
