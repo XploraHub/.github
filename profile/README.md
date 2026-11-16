@@ -2,6 +2,8 @@
 
 **[XploraHub](https://xplorahub.com)** is an online community for mineral exploration and mining technology. Members show the tools they build and the field tests they run, and geologists, geophysicists, engineers and data scientists question them in the open.
 
+<a href="https://xplorahub.com/connect?ref=github-profile"><img src="assets/connect-ai.png" alt="Connect AI, free: XploraHub in Claude and ChatGPT. Ask your assistant for experts, companies, open-source tools and the news. xplorahub.com/connect" width="100%"></a>
+
 ### How it works
 
 | Show it | Question it | Improve it |
@@ -17,10 +19,14 @@
 | [**Technology companies**](https://xplorahub.com/directory/organisations) | The companies building exploration and mining technology |
 | [**Exploration methods**](https://xplorahub.com/methods) | Practical guides to geophysics, drilling, geostatistics and other methods |
 | [**Guides**](https://xplorahub.com/guides) | Deposit types and how each is explored, assay QA/QC, reporting and careers |
+| [**Products**](https://xplorahub.com/products) | Products from the listed companies, with a Product of the week chosen by members' votes |
+| [**Open source**](https://xplorahub.com/open-source) | Open-source software and public geoscience data, sorted by method |
 | [**Watch**](https://xplorahub.com/watch) | Talks, case studies, tutorials and field films chosen for substance, with no investor promos |
 | [**Field Notes**](https://xplorahub.com/fieldnotes) | Our own articles and interviews |
 | [**News**](https://xplorahub.com/news) | Exploration and mining technology news |
-| [**Jobs**](https://xplorahub.com/jobs) and [**events**](https://xplorahub.com/events) | In exploration and mining technology |
+| [**Events**](https://xplorahub.com/events) | Conferences, field days and webinars in exploration and mining technology |
+| [**Newsletters**](https://xplorahub.com/newsletters) | Midweek, Intel and Recap, by email |
+| [**Connect AI**](https://xplorahub.com/connect) | XploraHub in Claude, ChatGPT or Claude Code: ask about experts, companies and tools, with links back |
 
 ### A few words we use
 
