@@ -2,7 +2,7 @@
 
 **[XploraHub](https://xplorahub.com)** is an online community for mineral exploration and mining technology. Members show the tools they build and the field tests they run, and geologists, geophysicists, engineers and data scientists question them in the open.
 
-<a href="https://xplorahub.com/courses?ref=github-profile"><img src="assets/courses.png" alt="Courses, lesson one free: Python, data science and core logging for geologists. Two hands-on courses in your browser, in development. xplorahub.com/courses" width="100%"></a>
+<a href="https://xplorahub.com/courses?ref=github-profile"><img src="assets/courses.png" alt="Course, lesson one free: Python, data science, machine learning and AI for geologists. One hands-on course in six interactive modules, in development. xplorahub.com/courses" width="100%"></a>
 
 <a href="https://xplorahub.com/competitions?ref=github-profile"><img src="assets/competitions.png" alt="Competitions, free to enter: a blind test for exploration methods. Synthetic geology with hidden deposits. Round 1: prospectivity mapping. xplorahub.com/competitions" width="100%"></a>
 
@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | [**The feed**](https://xplorahub.com/feed) | New tools, field tests and questions, ranked by members' votes |
-| [**Courses**](https://xplorahub.com/courses) | Python, data science and machine learning for geologists, and virtual core logging on real core (in development) |
+| [**Course**](https://xplorahub.com/courses) | Python, data science, machine learning and AI for geologists, in six interactive modules from 3D drill holes to core logging (in development) |
 | [**Competitions**](https://xplorahub.com/competitions) | A blind test for exploration methods on synthetic geology, starting with prospectivity mapping (in development) |
 | [**Experts**](https://xplorahub.com/directory) | Members' expert profiles, built from hits and endorsements |
 | [**Technology companies**](https://xplorahub.com/directory/organisations) | The companies building exploration and mining technology |
