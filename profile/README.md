@@ -2,6 +2,10 @@
 
 **[XploraHub](https://xplorahub.com)** is an online community for mineral exploration and mining technology. Members show the tools they build and the field tests they run, and geologists, geophysicists, engineers and data scientists question them in the open.
 
+<a href="https://xplorahub.com/courses?ref=github-profile"><img src="assets/courses.png" alt="Courses, lesson one free: Python, data science and core logging for geologists. Two hands-on courses in your browser, in development. xplorahub.com/courses" width="100%"></a>
+
+<a href="https://xplorahub.com/competitions?ref=github-profile"><img src="assets/competitions.png" alt="Competitions, free to enter: a blind test for exploration methods. Synthetic geology with hidden deposits. Round 1: prospectivity mapping. xplorahub.com/competitions" width="100%"></a>
+
 <a href="https://xplorahub.com/connect?ref=github-profile"><img src="assets/connect-ai.png" alt="Connect AI, free: XploraHub in Claude and ChatGPT. Ask your assistant for experts, companies, open-source tools and the news. xplorahub.com/connect" width="100%"></a>
 
 ### How it works
@@ -15,6 +19,8 @@
 | | |
 |---|---|
 | [**The feed**](https://xplorahub.com/feed) | New tools, field tests and questions, ranked by members' votes |
+| [**Courses**](https://xplorahub.com/courses) | Python, data science and machine learning for geologists, and virtual core logging on real core (in development) |
+| [**Competitions**](https://xplorahub.com/competitions) | A blind test for exploration methods on synthetic geology, starting with prospectivity mapping (in development) |
 | [**Experts**](https://xplorahub.com/directory) | Members' expert profiles, built from hits and endorsements |
 | [**Technology companies**](https://xplorahub.com/directory/organisations) | The companies building exploration and mining technology |
 | [**Exploration methods**](https://xplorahub.com/methods) | Practical guides to geophysics, drilling, geostatistics and other methods |
@@ -43,6 +49,8 @@
 | [**Awesome mineral exploration**](https://github.com/XploraHub/awesome-mineral-exploration) | Open-source software for exploration, sorted by method, from geophysical inversion to prospectivity mapping |
 | [**Awesome mining**](https://github.com/XploraHub/awesome-mining) | Open-source software for working mines, from mine planning and geotechnics to processing, tailings and closure |
 | [**Geoscience data portals**](https://github.com/XploraHub/geoscience-data-portals) | Government geoscience data portals: what each holds, how to get the data, what licence applies and what to watch out for |
+
+The code that builds the competitions' synthetic belts and scores the entries will be published here too, so anyone can check it.
 
 Built an open-source tool for exploration or mining? Add it to the matching list with a pull request, or [show it on XploraHub](https://xplorahub.com/submit). Spotted a portal we've missed? [Open an issue](https://github.com/XploraHub/geoscience-data-portals/issues/new/choose).
 
